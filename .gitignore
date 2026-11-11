@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Hypothesis
+.hypothesis/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
